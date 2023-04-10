@@ -11,7 +11,7 @@ There are 6 heading sizes available
 # Adding images to a .md file
 We can add image to any .md file just by uaing the below syntax
 
-![<Image Alt text>](<image web link>)
+**![<Image Alt text>](<image web link>)**io
 
 first we have a ! Sign. Then in the next square bracket [] we give the ALT TEXT.
 In case the  image doesn't show up users could know what it is for from the alt text..
@@ -23,3 +23,25 @@ Eg: ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 Shows an image of some cat
 
 
+We could add a code example to the .md file by inserting whatever is in our codee withing ''' symbols 3 single quotes.
+
+Eg:
+```
+
+Const Telegraf = require('telegraf');
+const bot = new Telegraf('BOT_TOKEN');
+
+```
+
+
+You can copy whatever is inside these code sections with an inbuilt option...
+
+# Adding task list
+
+We can also add task lists which has a checkbox associated with it
+We can create it like this
+1.  - [ ] content text
+2.  - [x] content text
+
+The first line adds an empty check box with "Content text" as the text associated with the check box
+and the second line creates a checked check box with content text as the text assosciated with the check box
