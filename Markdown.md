@@ -27,7 +27,7 @@ In case the  image doesn't show up users could know what it is for from the alt 
 And the third part is a curly bracket ( ) where we give the link to the image... First upload image to github
 Then obtain the link of that image and then paste it in the .md file...
 ``` 
-Eg: ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ``` 
 Shows an image of some cat as below
 ![Image of Yaktocat](https://octodex.github.com/
@@ -59,5 +59,8 @@ It previews like of below
 1.  - [ ] content text
 2.  - [x] content text
 
+
 The first line adds an empty check box with "Content text" as the text associated with the check box
 and the second line creates a checked check box with content text as the text assosciated with the check box
+
+
