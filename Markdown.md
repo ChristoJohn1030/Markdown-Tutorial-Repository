@@ -64,7 +64,7 @@ We can add bullets and numberings in a .md file.There are two types of bullets
 - Text here
 
 ```
-The ```  - ``` will transform into a n emty bullet bullet - this 
+The ```  - ``` will transform into a n emty bullet bullet - -  this 
 
 # Quoting a text in .md file
 We can quote a text in a. md file by using ' > ' symbol.
