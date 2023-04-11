@@ -30,7 +30,7 @@ Then obtain the link of that image and then paste it in the .md file...
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ``` 
 Shows an image of some cat as below
-![Image of Yaktocat](https://octodex.github.com/)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
 # Adding a code example to a  .md file
