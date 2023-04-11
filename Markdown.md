@@ -56,7 +56,15 @@ examples:
 6. <sub> This is a subScript </sub>
 7. <sup> This is a superscript </sup>
 
+# Bullets and numbering
 
+We can add bullets and numberings in a .md file.There are two types of bullets
+1.The first one is an empty bullet... Its syntax is
+```
+* Text here
+
+```
+The ```  * ``` will transform into a *
 
 # Quoting a text in .md file
 We can quote a text in a. md file by using ' > ' symbol.
@@ -71,7 +79,12 @@ Quoted text is indented, with a different type color.
 
 
 #Adding URL links to a .md file
-We can add different URL's to a .md file
+We can add different URL's to a .md file. There are multiple methods for URL handling....
+
+
+
+
+
 
 
 
