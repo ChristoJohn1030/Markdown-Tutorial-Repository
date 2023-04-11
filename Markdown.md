@@ -61,10 +61,10 @@ examples:
 We can add bullets and numberings in a .md file.There are two types of bullets
 1.The first one is an empty bullet... Its syntax is
 ```
-* Text here
+- Text here
 
 ```
-The ```  * ``` will transform into a *
+The ```  - ``` will transform into a n emty bullet bullet - this 
 
 # Quoting a text in .md file
 We can quote a text in a. md file by using ' > ' symbol.
